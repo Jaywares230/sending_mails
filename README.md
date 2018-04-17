@@ -29,8 +29,8 @@ require 'gmail'</br>
 require 'twitter'</br>
 require 'mail'</br>
 
-#Programms aren't working well? </br>
+# Programms aren't working well? </br>
 Pretty simple only the first one is working so just check at the code and telle us why it isnt working ;p </br>
 
-#ENJOY
+# ENJOY
 And tell us why those 2 programms didn't work that well </br>
