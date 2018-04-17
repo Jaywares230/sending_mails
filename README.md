@@ -12,7 +12,7 @@ And that's thanks to the next two programms:</br>
 With the second programm you will be able to send an email to all the townhalls email that you just have scrapp with the first programm</br> (we unfortunately fail with this programmm so we sent like 0 mails ) </br>
 
 And then with the third programm here comes twitter you can also harass them on it ;) </br>
-(this one too we failed like hell</br>
+(this one too we failed like hell)</br>
 If they've got a twitter this programm is going to search there twitter and then send them a wonderfull tweet ;) </br>
 
 Thanks to those programm you can send them a letter, an email, and a tweet, you'll become a perfect harasser ! 
@@ -32,5 +32,5 @@ require 'mail'</br>
 # Programms aren't working well? </br>
 Pretty simple only the first one is working so just check at the code and telle us why it isnt working ;p </br>
 
-# ENJOY
-And tell us why those 2 programms didn't work that well </br>
+# ENJOY !
+And tell us why those 2 programms didn't work that well that would be nice </br>
