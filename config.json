@@ -1,0 +1,8 @@
+{
+  "client_id": "YOURIDCLIENT",
+  "client_secret": "YOURSECRETCLIENT",
+  "scope": [
+    "https://www.googleapis.com/auth/drive",
+    "https://spreadsheets.google.com/feeds/"
+  ]
+}
