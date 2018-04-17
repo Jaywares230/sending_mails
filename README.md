@@ -14,3 +14,17 @@ And then with the third programm here comes twitter you can also harass them on 
 If they've got a twitter this programm is going to search there twitter and then send them a wonderfull tweet ;) 
 
 Thanks to those programm you can send them a letter, an email, and a tweet, you'll become a perfect harasser ! 
+
+
+Comment exécuter les programmes qui ne fonctionnent pas ?
+C'est très simple il ne suffit de ne pas les éxécuter, vous nous épargnerez l'humiliation. Sinon seul un 'bundle install' suffira pour installer les gems suivantes nécessaires au fonctionnement (en principe) du programme : 
+
+require 'cerveau'
+require 'nokogiri'
+require 'open-uri'
+require 'google_drive'
+require 'gmail'
+require 'twitter'
+require 'mail'
+
+
