@@ -19,7 +19,7 @@ Thanks to those programm you can send them a letter, an email, and a tweet, you'
 Comment exécuter les programmes qui ne fonctionnent pas ?
 C'est très simple il ne suffit de ne pas les éxécuter, vous nous épargnerez l'humiliation. Sinon seul un 'bundle install' suffira pour installer les gems suivantes nécessaires au fonctionnement (en principe) du programme : 
 
-require 'cerveau'
+require 'cerveau'</br>
 require 'nokogiri'
 require 'open-uri'
 require 'google_drive'
